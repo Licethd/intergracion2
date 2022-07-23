@@ -1,0 +1,13 @@
+**/target/
+.classpath
+**/.classpath
+.project
+**/.project
+.settings/
+**/.settings/
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
